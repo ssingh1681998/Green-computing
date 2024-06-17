@@ -26,8 +26,8 @@
 ## Contact Me
 - 📫 How to reach me:
   - **Email**: [SSINGH1681998@GMAIL.com]
-  - **LinkedIn**: [linkedin.com/in/SHUBHAM-linkedin](https://linkedin.com/in/your-linkedin)
-  - **Twitter**: [twitter.com/your-twitter](https://twitter.com/your-twitter)
+  - **LinkedIn**: [linkedin.com/in/SHUBHAM SINGH-linkedin](https://linkedin.com/in/your-linkedin)
+  - **Twitter**: [twitter.com/SYSTEMM6305-twitter](https://twitter.com/your-twitter)
 
 <!---
 ssingh1681998/ssingh1681998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
